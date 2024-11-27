@@ -1,0 +1,6 @@
+bash daServerAClient.sh Player1publickey.pem Player1publickeyDaServer.pem
+bash daServerAClient.sh Player2publickey.pem Player2publickeyDaServer.pem
+bash daServerAClient.sh Player3publickey.pem Player3publickeyDaServer.pem
+bash daServerAClient.sh Player4publickey.pem Player4publickeyDaServer.pem
+
+bash daServerAClient.sh Bancopublickey.pem BancopublickeyDaServer.pem
